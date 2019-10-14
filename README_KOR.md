@@ -1,8 +1,5 @@
 # React-redux-socketio-chat - 한국어 번역
 
-![alt tag](ReadmeVideo.gif)
-앱의 라이브 버전을 보려면 http://slackclone.herokuapp.com를 방문하십시오.
-
 ## 사용 안내서
 먼저, 저장소를 복제한 -> ‘cd resact-redux-socketio-chat’ 과 ‘npm install’
 
@@ -44,12 +41,6 @@ npm run build
 npm start
 ```
 그런 다음 브라우저에서 `localhost:3000`을 가리키십시오.
-
-## 유용한 리소스 및 프로젝트 활용
-
-* Erikras의 Resources and 영감을 주는 프로젝트 예: https://github.com/erikras/react-redux-universal-hot-example
-* The facebook react flux-chat example: https://github.com/facebook/flux/tree/master/examples/flux-chat
-* reactiflux의 멋진 커뮤니티 https://discordapp.com/channels/102860784329052160/102860784329052160
 
 ## 해야할 일 (Todos)
 * 채팅 및 채널 모델에 대한 가상 스크롤을 구현하여 dom 요소가 더 빨리 로드되도록 하십시오!
