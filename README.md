@@ -1,11 +1,6 @@
 # React-redux-socketio-chat
 
-![alt tag](ReadmeVideo.gif)
-To see the live version of the app go to http://slackclone.herokuapp.com
-
 ## Use Guide
-
-[Korean translation](/README_KOR.md)
 
 First off, clone the repository and then `cd react-redux-socketio-chat`and `npm install`
 
@@ -47,12 +42,6 @@ npm run build
 npm start
 ```
 And then point your browser to `localhost:3000`
-
-## Helpful Resources and Inspiring Projects
-
-* Erikras' universal redux example: https://github.com/erikras/react-redux-universal-hot-example
-* The facebook react flux-chat example: https://github.com/facebook/flux/tree/master/examples/flux-chat
-* The awesome community of reactiflux https://discordapp.com/channels/102860784329052160/102860784329052160
 
 ## Todos
 * Implement virtual scrolling for the chat and channel modal, so that the dom elements load faster!
